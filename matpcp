@@ -1,1 +1,25 @@
-eloikl
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24h BEN 10" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h BEN 10
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/77274.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h BOB ESPONJA" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h BOB ESPONJA
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/77281.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h CINE COMEDIA" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h CINE COMEDIA
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/88343.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h CINE FAMILIA" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h CINE FAMILIA
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/88344.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h CINE LANCAMENTOS" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h CINE LANCAMENTOS
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/88345.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h CINE MARVEL" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h CINE MARVEL
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/88341.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h CINE VINGADORES" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h CINE VINGADORES
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/88342.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h DRAGON BALL SUPER" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h DRAGON BALL SUPER
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/79211.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h LARGADOS E PELADOS" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h LARGADOS E PELADOS
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/88346.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h TODO MUNDO ODEIA O CHRIS" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h TODO MUNDO ODEIA O CHRIS
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/77277.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://img.starbr.nz/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Músicas",A&E
+http://list.starbr.nz:80/live/Alexandre2021/2021alexandre/1120.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.nz/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Músicas",A&E FULL HD
